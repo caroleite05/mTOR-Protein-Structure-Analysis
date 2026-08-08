@@ -4,6 +4,9 @@ This project focuses on the exploration and analysis of the structure and compon
 
 The project explores the structural organization of mTOR, its main domains, and the interactions between its structural components.
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/455cd41e-cf3f-400c-b1e6-10c3537394ae" />
+
+
 <br>
 
 ## Project Objectives
