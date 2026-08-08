@@ -25,6 +25,28 @@ The project explores the structural organization of mTOR, its main domains, and 
 
 <br>
 
+## General Structural Characterization
+- Biomolecule system: Serine/threonine kinase mTOR protein
+- Organism: Homo sapiens (Human)
+- Experimental technique: X-ray diffraction (3.50 Å resolution)
+- Number of disulfide bonds: 0
+- Number of reviewed structures: 4
+
+<br>
+
+## Protein Classification
+
+| **Property**             | **Description**                    |
+| ------------------------ | ---------------------------------- |
+| **SCOP Class**           | Multidomain protein                |
+| **Structure**            | α/β (chains A, B); β (chains C, D) |
+| **Shape and Location**   | Globular                           |
+| **Quaternary Structure** | Tetramer                           |
+| **Composition**          | Complex                            |
+
+
+<br>
+
 ## Authors 
 
 * **Beatriz Pereira** - *Bioinformatics - FCUP* - [Beapereirax](https://github.com/Beapereirax) 
